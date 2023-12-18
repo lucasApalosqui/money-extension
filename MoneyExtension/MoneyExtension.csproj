@@ -1,9 +1,22 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>net7.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
+	<PropertyGroup>
+		<TargetFramework>net7.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<PackageId>CapiMoneyExtensions</PackageId>
+		<Version>1.0.0</Version>
+		<License>MIT</License>
+		<Authors>Lucas Apalosqui</Authors>
+		<Company>Caapi</Company>
+		<PackageDescription>Extension to convert decimal to integer</PackageDescription>
+		<Description>Extension to convert decimal to integer</Description>
+		<RepositoryUrl>https://github.com/lucasApalosqui/money-extension</RepositoryUrl>
+		<PackageProjectUrl>https://github.com/lucasApalosqui/money-extension</PackageProjectUrl>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageTags>money;int;decimal;converter</PackageTags>
+		<Title>CapiMoneyExtensions</Title>
+		<Summary>convert decimal to integer</Summary>
+	</PropertyGroup>
 
 </Project>
